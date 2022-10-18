@@ -1,2 +1,2 @@
-# -515-Design-Pattern
+# 515-Design-Pattern
 Design Pattern Assignment
